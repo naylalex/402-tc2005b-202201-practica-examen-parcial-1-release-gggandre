@@ -1,0 +1,10 @@
+.palindrome {
+    color: blue;
+    background-color: blue;
+    font-size: large;
+}
+.notPalindrome{
+    color: white;
+    background-color: purple;
+    font-size: large;
+}
